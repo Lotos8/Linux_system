@@ -1,4 +1,3 @@
-import cv2
 
 A text editor is a program which enables to create and manage date in a Linux file.
 
@@ -10,3 +9,4 @@ We got few Linux editors like:
 5. ex (Extended line editor)
 
 I will drive though the vi (visual editor) editor, because it is almost available in almost all Linux distribution.
+ !(C:/Users/lilia/OneDrive/Desktop/vi_create.png)
